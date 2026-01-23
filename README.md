@@ -1,8 +1,8 @@
 ## About me
 
-- 💻 Estudando C e Python
-- 📚 Cursando Ciência da Computação | UENP
-- 🎬off: Também sou editor de vídeo
+- 💻 Learning C++
+- 📚 Ciência da Computação | UENP
+- 🎬 Video editor
 
 <div>
 
