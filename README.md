@@ -1,25 +1,9 @@
 ## About me
 
-- 💻 Learning C++
-- 📚 Ciência da Computação | UENP
-- 🎬 Video editor
+ Sei lá kk
 
 <div>
 
-
-
-
-</div>
-
-## Skills
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="kauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="kauan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="kauan-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
-  <img align="center" alt="kauan-AfterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
-  <img align="center" alt="kauan-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-</div>
 
 ## Socials
 
